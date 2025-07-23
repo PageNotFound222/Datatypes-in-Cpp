@@ -2,6 +2,7 @@
 ## NAME:PRATHAMESH GALPHADE
 ## PRN-24070123123
 THEORY:Data Types Overview
+SOFTWARE USED:VS CODE
 
 In C++, data types define the kind of data a variable can store. When a variable is declared, the compiler allocates memory for it based on its data type. Each data type uses a different amount of memory, and C++ offers a variety to choose from depending on the needs of your program.
 
@@ -16,3 +17,7 @@ The bool type is used to store logical values: either true or false. It only tak
 
 Floating Point & Double Data Types (float and double):
 A float stores numbers with decimals using 4 bytes of memory and supports a wide range of values. For even more precision, double is used—it takes 8 bytes and can handle much larger and more accurate decimal numbers.
+
+IMPLEMENTATION: In this datatype i observed the different datatypes and knew their sizes determination 
+
+CONCLUSION:In this practical i discovered about various types of datatypes available in c++.
